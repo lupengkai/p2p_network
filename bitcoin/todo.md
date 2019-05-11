@@ -1,0 +1,2 @@
+一个peer添加流程
+一个json server
